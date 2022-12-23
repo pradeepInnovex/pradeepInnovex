@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeepInnovex
+- 👋 Hi, I’m @Pradeep
 - 👀 I’m interested in ... Data Structures & Algorithem, Web API, Database
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
